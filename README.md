@@ -56,7 +56,7 @@
 
 <h2>Current Projects</h2>
 
-- **Codify:** Drag and drop low-code no-code UI builder tool. [Check Live](https://codify-studio.netlify.app/code) <br/>
+- **Codify:** Drag and drop low-code no-code UI builder tool. [Check Live](https://codify-studio.netlify.app/) <br/>
 [Open Code!](https://github.com/psthejohn/codify) 
 
 ###
