@@ -53,3 +53,9 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+<h2>Current Projects</h2>
+
+- **Codify:** Drag and drop low-code no-code UI builder tool. [Check it out!](https://github.com/psthejohn/codify)
+
+###
